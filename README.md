@@ -1,4 +1,4 @@
-# Data Analyst / Product Analyst
+# Data Analyst 
 **SQL · Python · Product Metrics · BI**
 
 Превращаю сырые транзакционные и продуктовые данные в решения для роста retention, маржи и эффективности маркетингового бюджета.
